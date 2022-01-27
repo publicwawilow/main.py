@@ -1,17 +1,17 @@
 """Main info"""
-# user_token = '5d10a8d2fc9fdddeb3dfe7747629fe46771e066b5cae394bc3a72f24291095e8b1642ba0f1b8f56371ba2'
-bot_token = 'cb0400ae1b14d0875b4803640297401794c9d0984e0585a5521672c3f9aa60e88c856f5ce2248b640ef60'
+# user_token = ''
+bot_token = ''
 schedule_table = [[4, 11], [7, 11], [10, 4], [14, 13], [16, 42], [18, 34], [20, 11], [22, 17]]
 
-bot_group_id = 204098688
-# group_id = 204098688
-# group_id = 198242788
-album_id = 279018273
+bot_group_id = 0
+# group_id = 0
+# group_id = 0
+album_id = 0
 
 """
 Info for unittests
 """
-test_user_id = 503409544
+test_user_id = 0
 test_fold = 'users/test_user'
 
 
